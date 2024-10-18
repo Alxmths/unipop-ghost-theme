@@ -1,6 +1,6 @@
 {
-    "name": "headline",
-    "description": "A Ghost theme",
+    "name": "unipop-theme",
+    "description": "A Ghost theme for université populaire du XVIIIe",
     "version": "1.0.0",
     "private": true,
     "engines": {
